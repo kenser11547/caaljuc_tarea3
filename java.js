@@ -1,6 +1,6 @@
-const textBox = document.querySelector('#textBox');
+const cajaTexto = document.querySelector('#cajatexto');
 const output = document.querySelector('#output');
-textBox.addEventListener(
+cajaTexto.addEventListener(
     "keydown",
-    (e) => (output.textContent = `Pressionaste "${e.key}".`)
+    (caal) => (output.textContent = `Pressionaste "${caal.key}".`)
 );

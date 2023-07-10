@@ -7,9 +7,9 @@
 </head>
 <body>
     <h1>Prueba de Evento de Teclado</h1>
-    <label for="textBox">Ingrese un texto:</label>
-    <input type="text" id="textBox">
+    <label for="cajatexto">Ingrese un texto:</label>
+    <input type="text" id="cajatexto">
     <p id="output"></p>
-    <script src="script.js"></script>
+    <script src="java.js"></script>
 </body>
 </html>
