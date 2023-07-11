@@ -32,11 +32,9 @@
         </div>
         <p id="output"></p>
     </div>
-
     <!-- Agrega la referencia al archivo JavaScript -->
     <script src="java.js"></script>
-    <!-- Agrega la referencia al archivo JavaScript de Bootstrap (opcional) -->
-    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
 </body>
 
 </html>
